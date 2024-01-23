@@ -75,7 +75,7 @@ h1 {
 }
 
 .dropdown-item:hover {
-   background-color: #ff4c68;
+   background-color: ##1cb9c0;
 }
 
 .buttons {
@@ -121,13 +121,13 @@ h1 {
    height: 5rem;
    position: relative;
    margin: 3% 0;
-   color: #ef8172;
+   color: #1cb9c0;
 }
 
 .feature-symbols:hover {
-   color: #ff4c68;
+   color: #1cb9c0;
    transform: translateY(-5px);
-   filter: drop-shadow(-15px 8px 18px #ff4c68);
+   filter: drop-shadow(-15px 8px 18px #1cb9c0);
    transition: all 0.2s;
 }
 
@@ -231,12 +231,6 @@ h1 {
    margin: 5% 2% 10px;
 }
 
-/* .footer-icons:hover{
-   transform: translateY(-5px);
-   filter: drop-shadow(0 8px 15px black);
-   font-size: 30px;
-transition: all .2s ease-in;
-} */
 .social-links ul {
    display: flex;
    align-items: center;
@@ -305,21 +299,7 @@ span{
    color:#8f8f8f;
 }
 
-/* .social-links ul{
-position: relative;
 
-top:40%;
-left:40%;
-   display: flex;
-
-   margin:5% 0 0;
-   padding: 0;
-}
-
-.social-links ul li{
-   list-style: none;
-   margin:0 15px;
-} */
 /* Media Queries */
 @media (max-width:1028px) {
    #title {
